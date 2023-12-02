@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kratikaagarwal
-- 👀 I’m interested in Development.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m interested in Software Development and Project Management roles.
+- 💞️ I’m open to collaborate on Web Development.
 
 
 <!---
